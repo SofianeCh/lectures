@@ -1,0 +1,23 @@
+
+#top {
+    font-size: 36px;
+    color: red;
+  }
+
+  .navbar-nav > li{
+    padding-left:20px;
+    padding-right:10px;
+  }
+
+  .container {
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .container > div {
+      background-color: white;
+      font-size: 20px;
+      margin: 20px;
+      padding: 20px;
+      width: 200px;
+  }
