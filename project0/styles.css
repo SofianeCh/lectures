@@ -1,7 +1,9 @@
 
-#top {
-    font-size: 36px;
-    color: red;
+#intro {
+    font-size: 12px;
+    color: ;
+    font-weight: bold;
+    padding: 20px;
   }
 
   .navbar-nav > li{
