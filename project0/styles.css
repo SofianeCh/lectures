@@ -16,12 +16,12 @@
     border-radius: .3rem;
 }
 
-#part2{
-  height: 400px;
+#part2 {
+  height: 380px;
   text-align: ;
   padding: 20px;
   color: white;
-  margin-right: 20%;
+  margin-right: 45%;
 }
 
 th, td {
@@ -42,7 +42,7 @@ th, td {
 
   ul, ol {
     margin: 5px;
-    margin-left: 0%;
+    margin-left: 5%;
     margin-bottom: 5px;
     font-size: 14px;
     color: lightgray;
